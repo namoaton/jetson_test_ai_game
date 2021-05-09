@@ -1,3 +1,6 @@
+# Youtube demo
+[![Jetson Nano AI Rocket Game Demo](https://img.youtube.com/vi/Amuy8nMjMjM/0.jpg)](https://www.youtube.com/watch?v=Amuy8nMjMjM)
+
 # Jetson Nano server side
 Copy `game_mode_2.pth` to `~/nvdli-data/classification` folder<br>
 Copy `ai_project.py`, `dataset.py`, `utils.py` to `~/nvdli-data` folder<br>
